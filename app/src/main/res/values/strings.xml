@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading_image">Loading image…</string>
+    <string name="ooops">Oooooopps something went wrong! Please try later.</string>
+    <string name="loading_breeds">Loading breeds…</string>
+    <string name="loading_subbreeds">Loading sub breeds…</string>
+    <string name="no_subbreeds">There is no sub breeds of %1$s</string>
+    <string name="refresh">Refresh</string>
+</resources>

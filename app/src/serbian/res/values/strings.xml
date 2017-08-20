@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading_image">Slika se ucitava…</string>
+    <string name="ooops">Doslo je do nepredvidjene greske! Molimo pokusajte kasnije.</string>
+    <string name="loading_breeds">Ucitavanje rasa…</string>
+    <string name="loading_subbreeds">Ucitavanje podrasa…</string>
+    <string name="no_subbreeds">Ne postoje podrase %1$s</string>
+</resources>
